@@ -39,4 +39,5 @@ COUNTRIES =
     VUT: {fillKey: 'visited'},
     GBR: {fillKey: 'visited'},
     NLD: {fillKey: 'visited'},
+    MYS: {fillKey: 'visited'},
 }
